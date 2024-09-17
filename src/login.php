@@ -106,7 +106,7 @@ echo '
                 </path>
             </svg>
 
-            <p class="mx-3">Invalid username or password</p>
+            <p class="mx-3">Invalid student ID or password</p>
         </div>
 
         <button class="p-1 transition-colors duration-300 transform rounded-md hover:bg-opacity-25 hover:bg-gray-600 focus:outline-none" id="closeButton">
